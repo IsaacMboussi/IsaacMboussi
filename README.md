@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaacMboussi
 - 👀 I’m interested in web development, android development and programming as a whole
-- 🌱 I’m currently learning programming with kotlin and java
+- 🌱 I’m currently learning programming with flutter
 - 💞️ I’m looking to collaborate on learning, doing projects and so much more
 - 📫 How to reach me at isaacmboussi1@gmail.com
 
